@@ -326,23 +326,7 @@ EV-Dashboard-ADAS-STM32/
 
 ---
 
-## 🖼 Screenshots
 
-> Add dashboard and hardware screenshots here for maximum recruiter impact.
-
-| Dashboard View | ADAS Bird's-Eye View | Hardware Setup |
-|---|---|---|
-| `Docs/screenshots/dashboard.png` | `Docs/screenshots/adas-view.png` | `Docs/screenshots/hardware-setup.png` |
-
----
-
-## 🎥 Demo Video
-
-> A short walkthrough video significantly increases recruiter engagement.
-
-📹 **[Watch the Demo](#)** *(replace with your YouTube/Drive link)*
-
----
 
 ## 🚀 Getting Started
 
